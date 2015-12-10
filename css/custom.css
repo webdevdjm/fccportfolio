@@ -149,6 +149,10 @@ a:focus {
 	color: #E8850C;
 }
 
+#contact {
+	min-height: 500px;
+}
+
 @media(min-width:768px) {
 	.navbar-custom {
 		padding: 20px 0;
@@ -260,6 +264,11 @@ a:focus {
 	outline: 0;
 	color: #000;
 	background-color: #42dca3;
+}
+
+.btn-lg {
+	width: 200px;
+	padding: 10px 0;
 }
 
 ul.banner-social-buttons {
