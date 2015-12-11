@@ -40,7 +40,7 @@ h3 {
 
 p {
 	margin: 0 0 25px;
-	font-size: 12px;
+	font-size: 14px;
 	line-height: 1.5;
 }
 
@@ -191,7 +191,7 @@ a:focus {
 }
 
 .intro .intro-body .intro-text {
-	font-size: 14px;
+	font-size: 18px;
 }
 
 @media(min-width:768px) {
