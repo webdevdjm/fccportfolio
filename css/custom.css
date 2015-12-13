@@ -50,6 +50,10 @@ p {
 	}
 }
 
+.img-responsive {
+	margin: 0 auto;
+}
+
 /* ===== Link Styles ===== */
 a {
 	color: #42dca3;
